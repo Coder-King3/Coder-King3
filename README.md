@@ -12,7 +12,7 @@
 
 💻 技术栈与学习：<b>知识就是力量 ，学无止境！</b>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=ffffff)![Vue.js](https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=ffffff)![Vue.js](https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=ffffff)![Vue.js](https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=ffffff)![Vue.js](https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=ffffff)![Vue.js](https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=ffffff)![Vue.js](https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/Vue.js-#4FC08D?style=flat&logo=Vue.js&logoColor=ffffff)
 
 📫 我的社交链接：
 
