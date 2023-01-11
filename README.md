@@ -4,9 +4,9 @@
 
 🔭 我目前正在研究：
 
-- CMS-CK：**基于Nodejs+Vue3，开发后台管理系统。<span style="color:#8c8c8c;">敬请期待！</span>
+- <b>CMS-CK：</b>基于Nodejs+Vue3，开发后台管理系统。<span style="color:#8c8c8c;">敬请期待！</span>
 
-- **Web-CloudMusic：**基于[NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/)的网易云Web版项目，主要技术栈为Vue3+Ts+Vite。<span style="color:#8c8c8c;">敬请期待！</span>
+- <b>Web-CloudMusic：</b>基于[NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/)的网易云Web版项目，主要技术栈为Vue3+Ts+Vite。<span style="color:#8c8c8c;">敬请期待！</span>
 
 🌱 我目前正在学习：
 
@@ -14,9 +14,9 @@
 
 📫 我的社交链接：
 
-- **微信：**WM-CoderKing (备注事由)
-- [**博客：**](https://web.lyr3.cn/)web.lyr3.cn
-- [**掘金：**](https://juejin.cn/user/4081864508978766)CoderKing3
+- <b>微信：</b>WM-CoderKing (备注事由)
+- [博客：](https://web.lyr3.cn/)web.lyr3.cn
+- [掘金：](https://juejin.cn/user/4081864508978766)CoderKing3
 
 
 
