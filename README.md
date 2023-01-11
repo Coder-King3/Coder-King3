@@ -1,3 +1,5 @@
+
+
 # 你好，我是CoderKing
 
 我是一名前端工程师(后端略懂，嗯...略懂)，对互联网和前端技术充满热情。
@@ -25,13 +27,13 @@
           <td>
             <h3>📉 统计数据</h3>
             <img
-              src="https://github-readme-stats.vercel.app/api?username=LiYuanRen3&theme=tokyonight&show_icons=true&hide=contribs"
+              src="https://github-readme-stats.vercel.app/api?username=LiYuanRen3&bg_color=0,73FA79,73FDFF,D783FF&show_icons=true&hide=contribs"
             />
           </td>
           <td>
             <h3>💻 常用技术</h3>
             <img
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiYuanRen3&theme=tokyonight&layout=compact&hide=java,ruby,rust"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiYuanRen3&bg_color=0,73FA79,73FDFF,D783FF&layout=compact&hide=java,ruby,rust"
             />
           </td>
         </tr>
