@@ -1,5 +1,3 @@
-
-
 # 你好，我是CoderKing
 
 我是一名前端工程师(后端略懂，嗯...略懂)，对互联网和前端技术充满热情。
@@ -23,18 +21,18 @@
 - [<b>掘金：</b>](https://juejin.cn/user/4081864508978766)CoderKing3
 
 <table width="100%" border="0">
-        <tr>
-          <td>
-            <h3>📉 统计数据</h3>
-            <img
-              src="https://github-readme-stats.vercel.app/api?username=LiYuanRen3&bg_color=0,73FA79,73FDFF,D783FF&show_icons=true&hide=contribs"
-            />
-          </td>
-          <td>
-            <h3>💻 常用技术</h3>
-            <img
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiYuanRen3&bg_color=0,73FA79,73FDFF,D783FF&layout=compact&hide=java,ruby,rust"
-            />
-          </td>
-        </tr>
-      </table>
+ <tr>
+   <td>
+     <h3>📉 统计数据</h3>
+     <img
+       src="https://github-readme-stats.vercel.app/api?username=LiYuanRen3&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&show_icons=true&hide=contribs"
+     />
+   </td>
+    <td>
+     <h3>💻 常用技术</h3>
+     <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiYuanRen3&bg_color=0,73FA79,73FDFF,D783FF&layout=compact&hide=java,ruby,rust"
+    />
+   </td>
+ </tr>
+</table>
