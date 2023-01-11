@@ -4,7 +4,7 @@
 
 🔭 我目前正在研究：
 
-- **CMS-CK：**基于Nodejs+Vue3，开发后台管理系统。<span style="color:#8c8c8c;">敬请期待！</span>
+- CMS-CK：**基于Nodejs+Vue3，开发后台管理系统。<span style="color:#8c8c8c;">敬请期待！</span>
 
 - **Web-CloudMusic：**基于[NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/)的网易云Web版项目，主要技术栈为Vue3+Ts+Vite。<span style="color:#8c8c8c;">敬请期待！</span>
 
