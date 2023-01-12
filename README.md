@@ -23,13 +23,13 @@
 <table width="100%" border="0">
  <tr>
    <td>
-     <h3>📉 统计数据</h3>
+     <h3 style="margin-top: 0px;">📉 统计数据</h3>
      <img
        src="https://github-readme-stats.vercel.app/api?username=LiYuanRen3&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&show_icons=true&hide=contribs"
      />
    </td>
     <td>
-     <h3>💻 常用技术</h3>
+     <h3 style="margin-top: 0px;">💻 常用技术</h3>
      <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiYuanRen3&bg_color=0,73FA79,73FDFF,D783FF&layout=compact&hide=java,ruby,rust"
     />
