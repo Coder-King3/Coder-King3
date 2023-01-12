@@ -6,7 +6,7 @@
 
 🔭 在研究的项目：<b>真理来源于实践，实践出真知。</b>
 
-- <b>CMS-CK：</b>基于Nodejs+Vue3，开发后台管理系统。
+- <b>CMS-CK：</b>基于Nodejs+Vue3，开发的后台管理系统。
 
 - <b>Web-CloudMusic：</b>基于[NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/)的网易云Web版项目，主要技术栈为Vue3+Ts+Vite。
 
