@@ -1,8 +1,8 @@
 ## 你好，我是CoderKing <img src="https://web.lyr3.cn/logo.png" style="height: 25px; vertical-align: -5px" />
 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
 我是一名前端工程师(后端略懂，嗯...略懂)，对互联网和编程技术充满热情。
+
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 🔭 在研究的项目：<b>真理来源于实践，实践出真知。</b>
 
