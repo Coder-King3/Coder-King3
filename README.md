@@ -1,4 +1,4 @@
-# 你好，我是CoderKing
+## 你好，我是CoderKing
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
@@ -20,19 +20,12 @@
 - [<b>博客：</b>](https://web.lyr3.cn/)web.lyr3.cn
 - [<b>掘金：</b>](https://juejin.cn/user/4081864508978766)CoderKing3
 
-<table width="100%">
- <tr>
-   <td>
-     <h3>📉 统计数据</h3>
-     <img
+## 今年汇总
+<img
        src="https://github-readme-stats.vercel.app/api?username=LiYuanRen3&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&show_icons=true&hide=contribs"
      />
-   </td>
-    <td>
-     <h3>💻 常用技术</h3>
      <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiYuanRen3&bg_color=0,73FA79,73FDFF,D783FF&layout=compact&hide=java,ruby,rust"
     />
-   </td>
- </tr>
-</table>
+
+
