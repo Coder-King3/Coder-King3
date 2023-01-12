@@ -23,7 +23,7 @@
 <table width="100%">
  <tr>
    <td>
-     <b style="font-size: 1.25em;">📉 统计数据</b><br>
+     <h3>📉 统计数据</h3>
      <img
        src="https://github-readme-stats.vercel.app/api?username=LiYuanRen3&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&show_icons=true&hide=contribs"
      />
