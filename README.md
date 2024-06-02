@@ -3,7 +3,7 @@
 ### <img src="https://article.biliimg.com/bfs/article/821e8b784117cda39eef369b948b3d13627872080.png" style="height: 20px; vertical-align: bottom;" /> About
 
 - 👨🏻‍💻I am a full-stack engineer with a passion for the Internet and programming technologies.
-- 📱 How to reach me: [WeChat](https://article.biliimg.com/bfs/article/fb26f5d2c691d993396eb32d6f50c8af627872080.jpg), [twitter](https://twitter.com/coderking_3)
+- 📱 How to reach me: [twitter](https://twitter.com/coderking_3)
 
 <img align= "right" id="user-content-mycat" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
