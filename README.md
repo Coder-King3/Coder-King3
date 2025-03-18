@@ -9,7 +9,7 @@
 
 ### 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,typescript,vue,react)
+![Tech stack](https://skillicons.dev/icons?i=html,css,js,typescript,vue,react,nodejs,mysql)
 
 ### 🛠 Tools I use
 
