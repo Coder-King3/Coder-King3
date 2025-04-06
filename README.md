@@ -18,9 +18,9 @@
 ### 🚀 Contribution
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghproxy.com/https://raw.githubusercontent.com/Coder-King3/Coder-King3/output/contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghproxy.com/https://raw.githubusercontent.com/Coder-King3/Coder-King3/output/contribution-snake.svg" />
-  <img alt="github-snake" src="https://ghproxy.com/https://raw.githubusercontent.com/Coder-King3/Coder-King3/output/contribution-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghfast.top/https://raw.githubusercontent.com/Coder-King3/Coder-King3/output/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghfast.top/https://raw.githubusercontent.com/Coder-King3/Coder-King3/output/contribution-snake.svg" />
+  <img alt="github-snake" src="https://ghfast.top/https://raw.githubusercontent.com/Coder-King3/Coder-King3/output/contribution-snake.svg" />
 </picture>
 
 ### ✨ Summarize
