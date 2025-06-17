@@ -12,7 +12,7 @@
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=vscode,ps,powershell,git,pnpm,vite,vercel,github)
+![Tools I use](https://skillicons.dev/icons?i=vscode,powershell,ps,git,github,vercel,pnpm,vite)
 
 ### 🚀 Contribution
 
